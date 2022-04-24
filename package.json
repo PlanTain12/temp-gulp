@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PlanTain/temp-gulp.git"
+    "url": "git+https://github.com/PlanTain12/temp-gulp.git"
   },
-  "author": "PlanTain",
+  "author": "PlanTain12",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PlanTain/temp-gulp/issues"
+    "url": "https://github.com/PlanTain12/temp-gulp/issues"
   },
-  "homepage": "https://github.com/PlanTain/temp-gulp#readme",
+  "homepage": "https://github.com/PlanTain12/temp-gulp#readme",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "del": "^6.0.0",
