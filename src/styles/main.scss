@@ -1,11 +1,12 @@
 body {
-    background-color: #333333;
+    background-color: #111;
 
     p {
-        color: #333333;
+        color: #000000;
 
         &:hover {
             color: #FFFFFF;
+            text-decoration: dashed;
         }
     }
 
@@ -13,3 +14,4 @@ body {
         text-decoration: dashed;
     }
 }
+
